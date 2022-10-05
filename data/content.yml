@@ -5,7 +5,7 @@ hero:
   # animated text loop
   occupations:
     - 'Assistant Commercial'
-    - 'Conseiller clientelle'
+    - 'Conseiller clientèle'
     - 'Assistant de gestion'
     - 'Animateur réseau'
 
@@ -24,17 +24,17 @@ about:
             Je m’appelle Timothé Moessner.
 
 
-            J'ai 22 ans, fraichement diplômé du BTS NDRC
+            J'ai 22 ans, fraîchement diplômé du BTS NDRC
 
 
             Je recherche actuellement un travail dans le domaine du commerce ou du secrétariat.
 
 
-            J'ai un bon sens relationnel, un contact facile avec les clients, je maitrise le pack office, j'utilise aussi photoshop et sony Vegas Pro pour faire des montages vidéos dans mes loisirs.
+            J'ai un bon sens relationnel, un contact facile avec les clients, je maîtrise le pack office, j'utilise aussi photoshop et sony Vegas Pro pour faire des montages vidéos dans mes loisirs.
   button:
     enable: true
     label: 'Téléchager mon CV'
-    link: #
+    link: 'docs/CV_MOESSNER_TIMOTHE.pdf'
     icon: 'fa-download'
 ########################### Experience ##############################
 
@@ -53,7 +53,7 @@ experience:
       duration: "24/05/2021 - 26/06/2021"
     - name: Stage - Conseiller Immobilier
       company: Guy Hoquet
-      duration: "°01/03/2021 - 12/03/2021"
+      duration: "01/03/2021 - 12/03/2021"
     - name: Alternance - Assistant CPE
       company: Lycée Lavoisier Mulhouse
       duration: '25/09/2017 - 31/07/2020'
@@ -84,14 +84,14 @@ school:
       school: Lycée de la Versoie - 74200 Thonon-les-Bains
       duration: 'Septembre 2020 - Juin 2022'
       content: >
-              J'ai appris à avoir un bon sens relationnel et développé mon sens du commerce, travaillé avec wordpress et prestashop.
+              J'ai développé mon relationnel et mon sens du commerce, travaillé avec wordpress et prestashop.
               Je peux préparer et mettre en place une animation.
 
     - name: Baccalauréat Professionnel Gestion Administration par Alternance
       school: CFA Roosevelt - 68100 Mulhouse
       duration: 'Septembre 2017 - Juin 2020'
       content: >
-              J'ai pu à m'améliorer sur le pack office, apprendre à garder mon calme lors d'un appel téléphonique, rédiger des mails.
+              J'y ai appris à maîtriser le pack Office, garder mon calme lors d'un appel téléphonique, rédiger des mails professionnels.
 
 ########################### About ##############################
 hobbies:
@@ -104,7 +104,7 @@ hobbies:
     Dans mon temps libre j'essaye de m'améliorer dans les compétences qui peuvent m'être utiles dans ma carrière professionnelle.
 
 
-    J'aime créer de nouvelles choses grâce à Photoshop ou faire des montage vidéo à l'aide de Sony Vegas Pro.
+    J'aime créer de nouvelles choses grâce à Photoshop ou faire des montages vidéo à l'aide de Sony Vegas Pro.
 
 
     Le sport fait également partie de ma vie, je skie en hiver et je pratique l'escalade toute l'année.

@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "repository": "git@github.com:tylerjlawson/port-hugo.git",
-  "author": "Tyler Lawson",
+  "repository": "https://github.com/Moq77111113/TimMoessner",
+  "author": "Quentin Moessner",
   "license": "MIT",
   "scripts": {
     "start": "hugo server",

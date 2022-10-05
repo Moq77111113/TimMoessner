@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://example.com"
+baseURL = "https://timothemoessner.netlify.app/"
 title = "Timothé Moessner"
 theme = "port-hugo"
 
@@ -60,9 +60,9 @@ weight = 4
 [params]
 logo_light = "images/logo.svg"
 logo_dark = "images/logo-dark.svg"
-copyright = "Copyright Timothé Moessner &copy;"
+copyright = "Timothé Moessner &copy;"
 # Meta data
-description = "Personal Resume"
+description = "CV en ligne Timothé Moessner"
 author = "Quentin Moessner"
 favicon = "images/favicon.ico"
 
