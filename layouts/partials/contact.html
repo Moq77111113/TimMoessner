@@ -1,0 +1,11 @@
+<ul class="footer-icons list-inline">
+  {{ range $.Site.Params.social }}
+  <li>
+    <a href="{{ .link | safeURL }}" target="_blank" rel="noreferrer"
+      class="d-sm-flex flex-column justify-content-center p-3"><i class="{{ .icon }} footer-icon fa-2x pt-2 mb-2"
+        aria-label="{{ .alt }}" data-toggle="tooltip" data-placement="top" title="{{ .alt }}"></i>
+      <p class="footer-description">{{ .content | safeHTML}}</p>
+    </a>
+  </li>
+  {{ end }}
+</ul>
